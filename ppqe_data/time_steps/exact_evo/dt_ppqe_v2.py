@@ -13,6 +13,7 @@ tord = 1
 
 # update_type = 'jacobi_like'
 update_type = 'two_level_rotation'
+update_type = 'two_level_rotation_im'
 
 if(sys_str == 'h8'):
     geom = [

@@ -80,6 +80,8 @@ r_vec = np.linspace(0.4, 1.9, Npts)
 
 r_vec = [1.1]
 
+#NOTE(Nick): need to do this over runs.
+
 for i, r in enumerate(r_vec):
 
     geom = get_geom(sys_str, r)  
@@ -128,16 +130,20 @@ for i, r in enumerate(r_vec):
 
     timer.record("PPQE FCI")
 
+    runs_data_dir = "ppqe_pes_noise_data"
+    # Ensure the directory exists
+    os.makedirs(runs_data_dir, exist_ok=True)
+    new_summary_path = os.path.join(runs_data_dir, new_summary_name)
 
     if os.path.exists("summary.dat"):
-        os.rename("summary.dat", new_summary_name)
-        print(f"\n\nRenamed summary.dat to {new_summary_name}\n\n")
+        os.rename("summary.dat", new_summary_path)
+        print(f"\n\nRenamed summary.dat to {new_summary_path}\n\n")
 
         # Prepend a line to the new summary file
         header_line = f'#Efci:{mol.fci_energy:+12.10f}'
-        with open(new_summary_name, "r") as original:
+        with open(new_summary_path, "r") as original:
             data = original.read()
-        with open(new_summary_name, "w") as modified:
+        with open(new_summary_path, "w") as modified:
             modified.write(header_line + data)
 
     print(timer)
