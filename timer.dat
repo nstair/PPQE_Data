@@ -1,0 +1,1048 @@
+
+Host: pop-os
+
+Timers On : Wed Jul 30 14:08:24 2025
+Timers Off: Wed Jul 30 14:08:38 2025
+
+Wall Time:       14.61 seconds
+
+                                                       Time (seconds)
+Module                                       User      System        Wall        Calls
+Total PK formation time             :      0.033u      0.017s      0.032w      2 calls
+Libint2ERI::Libint2ERI              :      0.000u      0.017s      0.019w      6 calls
+HF: Form core H                     :      0.000u      0.000s      0.009w      2 calls
+HF: Form S/X                        :      0.000u      0.000s      0.000w      2 calls
+HF: Guess                           :      0.083u      0.000s      0.055w      2 calls
+SAD Guess                           :      0.083u      0.000s      0.052w      2 calls
+HF: Form G                          :      0.017u      0.000s      0.000w     14 calls
+JK: D                               :      0.000u      0.000s      0.000w     14 calls
+JK: USO2AO                          :      0.017u      0.000s      0.000w     14 calls
+JK: JK                              :      0.000u      0.000s      0.000w     14 calls
+PK computes JK                      :      0.000u      0.000s      0.000w     14 calls
+JK: AO2USO                          :      0.000u      0.000s      0.000w     14 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     14 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     14 calls
+HF: DIIS                            :      0.033u      0.000s      0.024w     12 calls
+HF: Form C                          :      0.000u      0.000s      0.002w     12 calls
+CIWave: CIvect write                :      0.000u      0.000s      0.000w     14 calls
+CIWave: CIvect read                 :      0.000u      0.000s      0.000w     39 calls
+CIWave: s2                          :      0.000u      0.000s      0.000w     14 calls
+CIWave: s3                          :      0.000u      0.000s      0.000w     82 calls
+
+--------------------------------------------------------------------------------------
+Total PK formation time             :      0.033u      0.017s      0.032w      2 calls
+| Libint2ERI::Libint2ERI            :      0.000u      0.017s      0.013w      4 calls
+HF: Form core H                     :      0.000u      0.000s      0.009w      2 calls
+HF: Form S/X                        :      0.000u      0.000s      0.000w      2 calls
+HF: Guess                           :      0.083u      0.000s      0.055w      2 calls
+| SAD Guess                         :      0.083u      0.000s      0.052w      2 calls
+HF: Form G                          :      0.017u      0.000s      0.000w     14 calls
+| JK: D                             :      0.000u      0.000s      0.000w     14 calls
+| JK: USO2AO                        :      0.017u      0.000s      0.000w     14 calls
+| JK: JK                            :      0.000u      0.000s      0.000w     14 calls
+| | PK computes JK                  :      0.000u      0.000s      0.000w     14 calls
+| JK: AO2USO                        :      0.000u      0.000s      0.000w     14 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     14 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     14 calls
+HF: DIIS                            :      0.033u      0.000s      0.024w     12 calls
+HF: Form C                          :      0.000u      0.000s      0.002w     12 calls
+Libint2ERI::Libint2ERI              :      0.000u      0.000s      0.006w      2 calls
+CIWave: CIvect write                :      0.000u      0.000s      0.000w     14 calls
+CIWave: CIvect read                 :      0.000u      0.000s      0.000w     39 calls
+CIWave: s2                          :      0.000u      0.000s      0.000w     14 calls
+CIWave: s3                          :      0.000u      0.000s      0.000w     82 calls
+
+**************************************************************************************
+
+Host: pop-os
+
+Timers On : Wed Jul 30 14:14:10 2025
+Timers Off: Wed Jul 30 14:14:27 2025
+
+Wall Time:       16.53 seconds
+
+                                                       Time (seconds)
+Module                                       User      System        Wall        Calls
+Total PK formation time             :      0.033u      0.000s      0.034w      2 calls
+Libint2ERI::Libint2ERI              :      0.033u      0.000s      0.019w      6 calls
+HF: Form core H                     :      0.017u      0.000s      0.002w      2 calls
+HF: Form S/X                        :      0.000u      0.000s      0.000w      2 calls
+HF: Guess                           :      0.083u      0.017s      0.057w      2 calls
+SAD Guess                           :      0.083u      0.017s      0.054w      2 calls
+HF: Form G                          :      0.000u      0.000s      0.000w     14 calls
+JK: D                               :      0.000u      0.000s      0.000w     14 calls
+JK: USO2AO                          :      0.000u      0.000s      0.000w     14 calls
+JK: JK                              :      0.000u      0.000s      0.000w     14 calls
+PK computes JK                      :      0.000u      0.000s      0.000w     14 calls
+JK: AO2USO                          :      0.000u      0.000s      0.000w     14 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     14 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     14 calls
+HF: DIIS                            :      0.050u      0.000s      0.027w     12 calls
+HF: Form C                          :      0.033u      0.000s      0.003w     12 calls
+CIWave: CIvect write                :      0.000u      0.000s      0.000w     14 calls
+CIWave: CIvect read                 :      0.000u      0.000s      0.000w     39 calls
+CIWave: s2                          :      0.000u      0.000s      0.000w     14 calls
+CIWave: s3                          :      0.000u      0.000s      0.000w     82 calls
+
+--------------------------------------------------------------------------------------
+Total PK formation time             :      0.033u      0.000s      0.034w      2 calls
+| Libint2ERI::Libint2ERI            :      0.017u      0.000s      0.013w      4 calls
+HF: Form core H                     :      0.017u      0.000s      0.002w      2 calls
+HF: Form S/X                        :      0.000u      0.000s      0.000w      2 calls
+HF: Guess                           :      0.083u      0.017s      0.057w      2 calls
+| SAD Guess                         :      0.083u      0.017s      0.054w      2 calls
+HF: Form G                          :      0.000u      0.000s      0.000w     14 calls
+| JK: D                             :      0.000u      0.000s      0.000w     14 calls
+| JK: USO2AO                        :      0.000u      0.000s      0.000w     14 calls
+| JK: JK                            :      0.000u      0.000s      0.000w     14 calls
+| | PK computes JK                  :      0.000u      0.000s      0.000w     14 calls
+| JK: AO2USO                        :      0.000u      0.000s      0.000w     14 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     14 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     14 calls
+HF: DIIS                            :      0.050u      0.000s      0.027w     12 calls
+HF: Form C                          :      0.033u      0.000s      0.003w     12 calls
+Libint2ERI::Libint2ERI              :      0.017u      0.000s      0.006w      2 calls
+CIWave: CIvect write                :      0.000u      0.000s      0.000w     14 calls
+CIWave: CIvect read                 :      0.000u      0.000s      0.000w     39 calls
+CIWave: s2                          :      0.000u      0.000s      0.000w     14 calls
+CIWave: s3                          :      0.000u      0.000s      0.000w     82 calls
+
+**************************************************************************************
+
+Host: pop-os
+
+Timers On : Wed Jul 30 14:19:29 2025
+Timers Off: Wed Jul 30 14:20:34 2025
+
+Wall Time:       65.05 seconds
+
+                                                       Time (seconds)
+Module                                       User      System        Wall        Calls
+Total PK formation time             :      0.117u      0.000s      0.062w      2 calls
+Libint2ERI::Libint2ERI              :      0.033u      0.017s      0.029w      6 calls
+HF: Form core H                     :      0.000u      0.000s      0.008w      2 calls
+HF: Form S/X                        :      0.000u      0.000s      0.000w      2 calls
+HF: Guess                           :      0.033u      0.000s      0.033w      2 calls
+SAD Guess                           :      0.033u      0.000s      0.030w      2 calls
+HF: Form G                          :      0.000u      0.000s      0.000w     12 calls
+JK: D                               :      0.000u      0.000s      0.000w     12 calls
+JK: USO2AO                          :      0.000u      0.000s      0.000w     12 calls
+JK: JK                              :      0.000u      0.000s      0.000w     12 calls
+PK computes JK                      :      0.000u      0.000s      0.000w     12 calls
+JK: AO2USO                          :      0.000u      0.000s      0.000w     12 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     12 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     12 calls
+HF: DIIS                            :      0.050u      0.000s      0.022w     10 calls
+HF: Form C                          :      0.000u      0.000s      0.002w     10 calls
+CIWave: CIvect write                :      0.000u      0.000s      0.000w     14 calls
+CIWave: CIvect read                 :      0.000u      0.000s      0.000w     39 calls
+CIWave: s2                          :      0.000u      0.000s      0.000w     16 calls
+CIWave: s3                          :      0.000u      0.000s      0.000w    120 calls
+
+--------------------------------------------------------------------------------------
+Total PK formation time             :      0.117u      0.000s      0.062w      2 calls
+| Libint2ERI::Libint2ERI            :      0.033u      0.000s      0.019w      4 calls
+HF: Form core H                     :      0.000u      0.000s      0.008w      2 calls
+HF: Form S/X                        :      0.000u      0.000s      0.000w      2 calls
+HF: Guess                           :      0.033u      0.000s      0.033w      2 calls
+| SAD Guess                         :      0.033u      0.000s      0.030w      2 calls
+HF: Form G                          :      0.000u      0.000s      0.000w     12 calls
+| JK: D                             :      0.000u      0.000s      0.000w     12 calls
+| JK: USO2AO                        :      0.000u      0.000s      0.000w     12 calls
+| JK: JK                            :      0.000u      0.000s      0.000w     12 calls
+| | PK computes JK                  :      0.000u      0.000s      0.000w     12 calls
+| JK: AO2USO                        :      0.000u      0.000s      0.000w     12 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     12 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     12 calls
+HF: DIIS                            :      0.050u      0.000s      0.022w     10 calls
+HF: Form C                          :      0.000u      0.000s      0.002w     10 calls
+Libint2ERI::Libint2ERI              :      0.000u      0.017s      0.009w      2 calls
+CIWave: CIvect write                :      0.000u      0.000s      0.000w     14 calls
+CIWave: CIvect read                 :      0.000u      0.000s      0.000w     39 calls
+CIWave: s2                          :      0.000u      0.000s      0.000w     16 calls
+CIWave: s3                          :      0.000u      0.000s      0.000w    120 calls
+
+**************************************************************************************
+
+Host: pop-os
+
+Timers On : Wed Jul 30 14:20:59 2025
+Timers Off: Wed Jul 30 14:50:16 2025
+
+Wall Time:     1756.93 seconds
+
+                                                       Time (seconds)
+Module                                       User      System        Wall        Calls
+Total PK formation time             :      0.117u      0.000s      0.071w      2 calls
+Libint2ERI::Libint2ERI              :      0.033u      0.033s      0.035w      6 calls
+HF: Form core H                     :      0.000u      0.000s      0.008w      2 calls
+HF: Form S/X                        :      0.000u      0.000s      0.000w      2 calls
+HF: Guess                           :      0.067u      0.000s      0.040w      2 calls
+SAD Guess                           :      0.050u      0.000s      0.037w      2 calls
+HF: Form G                          :      0.000u      0.000s      0.001w     12 calls
+JK: D                               :      0.000u      0.000s      0.000w     12 calls
+JK: USO2AO                          :      0.000u      0.000s      0.000w     12 calls
+JK: JK                              :      0.000u      0.000s      0.000w     12 calls
+PK computes JK                      :      0.000u      0.000s      0.000w     12 calls
+JK: AO2USO                          :      0.000u      0.000s      0.000w     12 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     12 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     12 calls
+HF: DIIS                            :      0.083u      0.000s      0.034w     10 calls
+HF: Form C                          :      0.000u      0.000s      0.003w     10 calls
+CIWave: CIvect write                :      0.000u      0.000s      0.000w     14 calls
+CIWave: CIvect read                 :      0.000u      0.000s      0.000w     39 calls
+CIWave: s2                          :      0.000u      0.000s      0.000w     16 calls
+CIWave: s3                          :      0.000u      0.000s      0.000w    120 calls
+
+--------------------------------------------------------------------------------------
+Total PK formation time             :      0.117u      0.000s      0.071w      2 calls
+| Libint2ERI::Libint2ERI            :      0.017u      0.000s      0.023w      4 calls
+HF: Form core H                     :      0.000u      0.000s      0.008w      2 calls
+HF: Form S/X                        :      0.000u      0.000s      0.000w      2 calls
+HF: Guess                           :      0.067u      0.000s      0.040w      2 calls
+| SAD Guess                         :      0.050u      0.000s      0.037w      2 calls
+HF: Form G                          :      0.000u      0.000s      0.001w     12 calls
+| JK: D                             :      0.000u      0.000s      0.000w     12 calls
+| JK: USO2AO                        :      0.000u      0.000s      0.000w     12 calls
+| JK: JK                            :      0.000u      0.000s      0.000w     12 calls
+| | PK computes JK                  :      0.000u      0.000s      0.000w     12 calls
+| JK: AO2USO                        :      0.000u      0.000s      0.000w     12 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     12 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     12 calls
+HF: DIIS                            :      0.083u      0.000s      0.034w     10 calls
+HF: Form C                          :      0.000u      0.000s      0.003w     10 calls
+Libint2ERI::Libint2ERI              :      0.017u      0.033s      0.012w      2 calls
+CIWave: CIvect write                :      0.000u      0.000s      0.000w     14 calls
+CIWave: CIvect read                 :      0.000u      0.000s      0.000w     39 calls
+CIWave: s2                          :      0.000u      0.000s      0.000w     16 calls
+CIWave: s3                          :      0.000u      0.000s      0.000w    120 calls
+
+**************************************************************************************
+
+Host: pop-os
+
+Timers On : Wed Jul 30 14:51:23 2025
+Timers Off: Wed Jul 30 14:57:08 2025
+
+Wall Time:      344.17 seconds
+
+                                                       Time (seconds)
+Module                                       User      System        Wall        Calls
+Total PK formation time             :      0.050u      0.017s      0.037w      2 calls
+Libint2ERI::Libint2ERI              :      0.033u      0.017s      0.019w      6 calls
+HF: Form core H                     :      0.000u      0.000s      0.008w      2 calls
+HF: Form S/X                        :      0.000u      0.000s      0.000w      2 calls
+HF: Guess                           :      0.083u      0.000s      0.055w      2 calls
+SAD Guess                           :      0.067u      0.000s      0.052w      2 calls
+HF: Form G                          :      0.000u      0.000s      0.000w     14 calls
+JK: D                               :      0.000u      0.000s      0.000w     14 calls
+JK: USO2AO                          :      0.000u      0.000s      0.000w     14 calls
+JK: JK                              :      0.000u      0.000s      0.000w     14 calls
+PK computes JK                      :      0.000u      0.000s      0.000w     14 calls
+JK: AO2USO                          :      0.000u      0.000s      0.000w     14 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     14 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     14 calls
+HF: DIIS                            :      0.017u      0.000s      0.025w     12 calls
+HF: Form C                          :      0.017u      0.000s      0.002w     12 calls
+CIWave: CIvect write                :      0.000u      0.000s      0.000w     14 calls
+CIWave: CIvect read                 :      0.000u      0.000s      0.000w     39 calls
+CIWave: s2                          :      0.000u      0.000s      0.000w     14 calls
+CIWave: s3                          :      0.000u      0.000s      0.000w     82 calls
+
+--------------------------------------------------------------------------------------
+Total PK formation time             :      0.050u      0.017s      0.037w      2 calls
+| Libint2ERI::Libint2ERI            :      0.017u      0.017s      0.013w      4 calls
+HF: Form core H                     :      0.000u      0.000s      0.008w      2 calls
+HF: Form S/X                        :      0.000u      0.000s      0.000w      2 calls
+HF: Guess                           :      0.083u      0.000s      0.055w      2 calls
+| SAD Guess                         :      0.067u      0.000s      0.052w      2 calls
+HF: Form G                          :      0.000u      0.000s      0.000w     14 calls
+| JK: D                             :      0.000u      0.000s      0.000w     14 calls
+| JK: USO2AO                        :      0.000u      0.000s      0.000w     14 calls
+| JK: JK                            :      0.000u      0.000s      0.000w     14 calls
+| | PK computes JK                  :      0.000u      0.000s      0.000w     14 calls
+| JK: AO2USO                        :      0.000u      0.000s      0.000w     14 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     14 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     14 calls
+HF: DIIS                            :      0.017u      0.000s      0.025w     12 calls
+HF: Form C                          :      0.017u      0.000s      0.002w     12 calls
+Libint2ERI::Libint2ERI              :      0.017u      0.000s      0.006w      2 calls
+CIWave: CIvect write                :      0.000u      0.000s      0.000w     14 calls
+CIWave: CIvect read                 :      0.000u      0.000s      0.000w     39 calls
+CIWave: s2                          :      0.000u      0.000s      0.000w     14 calls
+CIWave: s3                          :      0.000u      0.000s      0.000w     82 calls
+
+**************************************************************************************
+
+Host: pop-os
+
+Timers On : Wed Jul 30 15:13:14 2025
+Timers Off: Wed Jul 30 15:13:53 2025
+
+Wall Time:       39.08 seconds
+
+                                                       Time (seconds)
+Module                                       User      System        Wall        Calls
+Total PK formation time             :      0.100u      0.017s      0.065w      2 calls
+Libint2ERI::Libint2ERI              :      0.033u      0.017s      0.030w      6 calls
+HF: Form core H                     :      0.000u      0.000s      0.008w      2 calls
+HF: Form S/X                        :      0.000u      0.000s      0.000w      2 calls
+HF: Guess                           :      0.050u      0.000s      0.042w      2 calls
+SAD Guess                           :      0.050u      0.000s      0.040w      2 calls
+HF: Form G                          :      0.000u      0.000s      0.001w     12 calls
+JK: D                               :      0.000u      0.000s      0.000w     12 calls
+JK: USO2AO                          :      0.000u      0.000s      0.000w     12 calls
+JK: JK                              :      0.000u      0.000s      0.000w     12 calls
+PK computes JK                      :      0.000u      0.000s      0.000w     12 calls
+JK: AO2USO                          :      0.000u      0.000s      0.000w     12 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     12 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     12 calls
+HF: DIIS                            :      0.050u      0.017s      0.039w     10 calls
+HF: Form C                          :      0.017u      0.000s      0.003w     10 calls
+CIWave: CIvect write                :      0.000u      0.000s      0.000w     14 calls
+CIWave: CIvect read                 :      0.000u      0.000s      0.000w     39 calls
+CIWave: s2                          :      0.000u      0.000s      0.000w     16 calls
+CIWave: s3                          :      0.000u      0.000s      0.000w    120 calls
+
+--------------------------------------------------------------------------------------
+Total PK formation time             :      0.100u      0.017s      0.065w      2 calls
+| Libint2ERI::Libint2ERI            :      0.033u      0.017s      0.020w      4 calls
+HF: Form core H                     :      0.000u      0.000s      0.008w      2 calls
+HF: Form S/X                        :      0.000u      0.000s      0.000w      2 calls
+HF: Guess                           :      0.050u      0.000s      0.042w      2 calls
+| SAD Guess                         :      0.050u      0.000s      0.040w      2 calls
+HF: Form G                          :      0.000u      0.000s      0.001w     12 calls
+| JK: D                             :      0.000u      0.000s      0.000w     12 calls
+| JK: USO2AO                        :      0.000u      0.000s      0.000w     12 calls
+| JK: JK                            :      0.000u      0.000s      0.000w     12 calls
+| | PK computes JK                  :      0.000u      0.000s      0.000w     12 calls
+| JK: AO2USO                        :      0.000u      0.000s      0.000w     12 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     12 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     12 calls
+HF: DIIS                            :      0.050u      0.017s      0.039w     10 calls
+HF: Form C                          :      0.017u      0.000s      0.003w     10 calls
+Libint2ERI::Libint2ERI              :      0.000u      0.000s      0.011w      2 calls
+CIWave: CIvect write                :      0.000u      0.000s      0.000w     14 calls
+CIWave: CIvect read                 :      0.000u      0.000s      0.000w     39 calls
+CIWave: s2                          :      0.000u      0.000s      0.000w     16 calls
+CIWave: s3                          :      0.000u      0.000s      0.000w    120 calls
+
+**************************************************************************************
+
+Host: pop-os
+
+Timers On : Wed Jul 30 15:16:34 2025
+Timers Off: Wed Jul 30 15:16:54 2025
+
+Wall Time:       19.94 seconds
+
+                                                       Time (seconds)
+Module                                       User      System        Wall        Calls
+Total PK formation time             :      0.067u      0.017s      0.034w      2 calls
+Libint2ERI::Libint2ERI              :      0.000u      0.033s      0.019w      6 calls
+HF: Form core H                     :      0.000u      0.000s      0.008w      2 calls
+HF: Form S/X                        :      0.000u      0.000s      0.000w      2 calls
+HF: Guess                           :      0.083u      0.000s      0.054w      2 calls
+SAD Guess                           :      0.083u      0.000s      0.052w      2 calls
+HF: Form G                          :      0.000u      0.000s      0.000w     14 calls
+JK: D                               :      0.000u      0.000s      0.000w     14 calls
+JK: USO2AO                          :      0.000u      0.000s      0.000w     14 calls
+JK: JK                              :      0.000u      0.000s      0.000w     14 calls
+PK computes JK                      :      0.000u      0.000s      0.000w     14 calls
+JK: AO2USO                          :      0.000u      0.000s      0.000w     14 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     14 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     14 calls
+HF: DIIS                            :      0.033u      0.000s      0.025w     12 calls
+HF: Form C                          :      0.000u      0.000s      0.002w     12 calls
+CIWave: CIvect write                :      0.000u      0.000s      0.000w     14 calls
+CIWave: CIvect read                 :      0.000u      0.000s      0.000w     39 calls
+CIWave: s2                          :      0.000u      0.000s      0.000w     14 calls
+CIWave: s3                          :      0.000u      0.000s      0.000w     82 calls
+
+--------------------------------------------------------------------------------------
+Total PK formation time             :      0.067u      0.017s      0.034w      2 calls
+| Libint2ERI::Libint2ERI            :      0.000u      0.017s      0.013w      4 calls
+HF: Form core H                     :      0.000u      0.000s      0.008w      2 calls
+HF: Form S/X                        :      0.000u      0.000s      0.000w      2 calls
+HF: Guess                           :      0.083u      0.000s      0.054w      2 calls
+| SAD Guess                         :      0.083u      0.000s      0.052w      2 calls
+HF: Form G                          :      0.000u      0.000s      0.000w     14 calls
+| JK: D                             :      0.000u      0.000s      0.000w     14 calls
+| JK: USO2AO                        :      0.000u      0.000s      0.000w     14 calls
+| JK: JK                            :      0.000u      0.000s      0.000w     14 calls
+| | PK computes JK                  :      0.000u      0.000s      0.000w     14 calls
+| JK: AO2USO                        :      0.000u      0.000s      0.000w     14 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     14 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     14 calls
+HF: DIIS                            :      0.033u      0.000s      0.025w     12 calls
+HF: Form C                          :      0.000u      0.000s      0.002w     12 calls
+Libint2ERI::Libint2ERI              :      0.000u      0.017s      0.006w      2 calls
+CIWave: CIvect write                :      0.000u      0.000s      0.000w     14 calls
+CIWave: CIvect read                 :      0.000u      0.000s      0.000w     39 calls
+CIWave: s2                          :      0.000u      0.000s      0.000w     14 calls
+CIWave: s3                          :      0.000u      0.000s      0.000w     82 calls
+
+**************************************************************************************
+
+Host: pop-os
+
+Timers On : Wed Jul 30 16:18:38 2025
+Timers Off: Wed Jul 30 16:18:39 2025
+
+Wall Time:        0.79 seconds
+
+                                                       Time (seconds)
+Module                                       User      System        Wall        Calls
+
+--------------------------------------------------------------------------------------
+
+**************************************************************************************
+
+Host: pop-os
+
+Timers On : Wed Jul 30 16:19:25 2025
+Timers Off: Wed Jul 30 16:20:13 2025
+
+Wall Time:       48.45 seconds
+
+                                                       Time (seconds)
+Module                                       User      System        Wall        Calls
+Total PK formation time             :      0.067u      0.017s      0.043w      2 calls
+Libint2ERI::Libint2ERI              :      0.033u      0.017s      0.027w      6 calls
+HF: Form core H                     :      0.000u      0.000s      0.008w      2 calls
+HF: Form S/X                        :      0.000u      0.000s      0.002w      2 calls
+HF: Guess                           :      0.133u      0.017s      0.080w      2 calls
+SAD Guess                           :      0.117u      0.017s      0.077w      2 calls
+HF: Form G                          :      0.000u      0.000s      0.000w     14 calls
+JK: D                               :      0.000u      0.000s      0.000w     14 calls
+JK: USO2AO                          :      0.000u      0.000s      0.000w     14 calls
+JK: JK                              :      0.000u      0.000s      0.000w     14 calls
+PK computes JK                      :      0.000u      0.000s      0.000w     14 calls
+JK: AO2USO                          :      0.000u      0.000s      0.000w     14 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     14 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     14 calls
+HF: DIIS                            :      0.050u      0.000s      0.042w     12 calls
+HF: Form C                          :      0.000u      0.000s      0.003w     12 calls
+CIWave: CIvect write                :      0.000u      0.000s      0.000w     30 calls
+CIWave: CIvect read                 :      0.000u      0.000s      0.000w    110 calls
+CIWave: s2                          :      0.000u      0.000s      0.000w      4 calls
+CIWave: s3                          :      0.000u      0.000s      0.001w      4 calls
+
+--------------------------------------------------------------------------------------
+Total PK formation time             :      0.067u      0.017s      0.043w      2 calls
+| Libint2ERI::Libint2ERI            :      0.000u      0.017s      0.018w      4 calls
+HF: Form core H                     :      0.000u      0.000s      0.008w      2 calls
+HF: Form S/X                        :      0.000u      0.000s      0.002w      2 calls
+HF: Guess                           :      0.133u      0.017s      0.080w      2 calls
+| SAD Guess                         :      0.117u      0.017s      0.077w      2 calls
+HF: Form G                          :      0.000u      0.000s      0.000w     14 calls
+| JK: D                             :      0.000u      0.000s      0.000w     14 calls
+| JK: USO2AO                        :      0.000u      0.000s      0.000w     14 calls
+| JK: JK                            :      0.000u      0.000s      0.000w     14 calls
+| | PK computes JK                  :      0.000u      0.000s      0.000w     14 calls
+| JK: AO2USO                        :      0.000u      0.000s      0.000w     14 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     14 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     14 calls
+HF: DIIS                            :      0.050u      0.000s      0.042w     12 calls
+HF: Form C                          :      0.000u      0.000s      0.003w     12 calls
+Libint2ERI::Libint2ERI              :      0.033u      0.000s      0.010w      2 calls
+CIWave: CIvect write                :      0.000u      0.000s      0.000w     30 calls
+CIWave: CIvect read                 :      0.000u      0.000s      0.000w    110 calls
+CIWave: s2                          :      0.000u      0.000s      0.000w      4 calls
+CIWave: s3                          :      0.000u      0.000s      0.001w      4 calls
+
+**************************************************************************************
+
+Host: pop-os
+
+Timers On : Wed Jul 30 16:21:47 2025
+Timers Off: Wed Jul 30 16:23:18 2025
+
+Wall Time:       90.87 seconds
+
+                                                       Time (seconds)
+Module                                       User      System        Wall        Calls
+Total PK formation time             :      0.050u      0.017s      0.044w      2 calls
+Libint2ERI::Libint2ERI              :      0.033u      0.017s      0.025w      6 calls
+HF: Form core H                     :      0.000u      0.000s      0.008w      2 calls
+HF: Form S/X                        :      0.000u      0.000s      0.000w      2 calls
+HF: Guess                           :      0.100u      0.000s      0.070w      2 calls
+SAD Guess                           :      0.100u      0.000s      0.067w      2 calls
+HF: Form G                          :      0.000u      0.000s      0.000w     14 calls
+JK: D                               :      0.000u      0.000s      0.000w     14 calls
+JK: USO2AO                          :      0.000u      0.000s      0.000w     14 calls
+JK: JK                              :      0.000u      0.000s      0.000w     14 calls
+PK computes JK                      :      0.000u      0.000s      0.000w     14 calls
+JK: AO2USO                          :      0.000u      0.000s      0.000w     14 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     14 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     14 calls
+HF: DIIS                            :      0.067u      0.000s      0.031w     12 calls
+HF: Form C                          :      0.017u      0.000s      0.003w     12 calls
+CIWave: CIvect write                :      0.000u      0.000s      0.000w     30 calls
+CIWave: CIvect read                 :      0.000u      0.000s      0.000w    110 calls
+CIWave: s2                          :      0.000u      0.000s      0.000w      4 calls
+CIWave: s3                          :      0.000u      0.000s      0.001w      4 calls
+
+--------------------------------------------------------------------------------------
+Total PK formation time             :      0.050u      0.017s      0.044w      2 calls
+| Libint2ERI::Libint2ERI            :      0.033u      0.017s      0.018w      4 calls
+HF: Form core H                     :      0.000u      0.000s      0.008w      2 calls
+HF: Form S/X                        :      0.000u      0.000s      0.000w      2 calls
+HF: Guess                           :      0.100u      0.000s      0.070w      2 calls
+| SAD Guess                         :      0.100u      0.000s      0.067w      2 calls
+HF: Form G                          :      0.000u      0.000s      0.000w     14 calls
+| JK: D                             :      0.000u      0.000s      0.000w     14 calls
+| JK: USO2AO                        :      0.000u      0.000s      0.000w     14 calls
+| JK: JK                            :      0.000u      0.000s      0.000w     14 calls
+| | PK computes JK                  :      0.000u      0.000s      0.000w     14 calls
+| JK: AO2USO                        :      0.000u      0.000s      0.000w     14 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     14 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     14 calls
+HF: DIIS                            :      0.067u      0.000s      0.031w     12 calls
+HF: Form C                          :      0.017u      0.000s      0.003w     12 calls
+Libint2ERI::Libint2ERI              :      0.000u      0.000s      0.007w      2 calls
+CIWave: CIvect write                :      0.000u      0.000s      0.000w     30 calls
+CIWave: CIvect read                 :      0.000u      0.000s      0.000w    110 calls
+CIWave: s2                          :      0.000u      0.000s      0.000w      4 calls
+CIWave: s3                          :      0.000u      0.000s      0.001w      4 calls
+
+**************************************************************************************
+
+Host: pop-os
+
+Timers On : Wed Jul 30 16:23:57 2025
+Timers Off: Wed Jul 30 17:15:14 2025
+
+Wall Time:     3077.27 seconds
+
+                                                       Time (seconds)
+Module                                       User      System        Wall        Calls
+Total PK formation time             :      0.050u      0.000s      0.035w      2 calls
+Libint2ERI::Libint2ERI              :      0.067u      0.000s      0.019w      6 calls
+HF: Form core H                     :      0.000u      0.000s      0.008w      2 calls
+HF: Form S/X                        :      0.000u      0.000s      0.000w      2 calls
+HF: Guess                           :      0.100u      0.000s      0.055w      2 calls
+SAD Guess                           :      0.083u      0.000s      0.052w      2 calls
+HF: Form G                          :      0.000u      0.000s      0.000w     14 calls
+JK: D                               :      0.000u      0.000s      0.000w     14 calls
+JK: USO2AO                          :      0.000u      0.000s      0.000w     14 calls
+JK: JK                              :      0.000u      0.000s      0.000w     14 calls
+PK computes JK                      :      0.000u      0.000s      0.000w     14 calls
+JK: AO2USO                          :      0.000u      0.000s      0.000w     14 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     14 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     14 calls
+HF: DIIS                            :      0.050u      0.000s      0.022w     12 calls
+HF: Form C                          :      0.000u      0.000s      0.002w     12 calls
+CIWave: CIvect write                :      0.000u      0.000s      0.000w     30 calls
+CIWave: CIvect read                 :      0.000u      0.000s      0.000w    110 calls
+CIWave: s2                          :      0.000u      0.000s      0.000w      4 calls
+CIWave: s3                          :      0.000u      0.000s      0.001w      4 calls
+
+--------------------------------------------------------------------------------------
+Total PK formation time             :      0.050u      0.000s      0.035w      2 calls
+| Libint2ERI::Libint2ERI            :      0.033u      0.000s      0.013w      4 calls
+HF: Form core H                     :      0.000u      0.000s      0.008w      2 calls
+HF: Form S/X                        :      0.000u      0.000s      0.000w      2 calls
+HF: Guess                           :      0.100u      0.000s      0.055w      2 calls
+| SAD Guess                         :      0.083u      0.000s      0.052w      2 calls
+HF: Form G                          :      0.000u      0.000s      0.000w     14 calls
+| JK: D                             :      0.000u      0.000s      0.000w     14 calls
+| JK: USO2AO                        :      0.000u      0.000s      0.000w     14 calls
+| JK: JK                            :      0.000u      0.000s      0.000w     14 calls
+| | PK computes JK                  :      0.000u      0.000s      0.000w     14 calls
+| JK: AO2USO                        :      0.000u      0.000s      0.000w     14 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     14 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     14 calls
+HF: DIIS                            :      0.050u      0.000s      0.022w     12 calls
+HF: Form C                          :      0.000u      0.000s      0.002w     12 calls
+Libint2ERI::Libint2ERI              :      0.033u      0.000s      0.006w      2 calls
+CIWave: CIvect write                :      0.000u      0.000s      0.000w     30 calls
+CIWave: CIvect read                 :      0.000u      0.000s      0.000w    110 calls
+CIWave: s2                          :      0.000u      0.000s      0.000w      4 calls
+CIWave: s3                          :      0.000u      0.000s      0.001w      4 calls
+
+**************************************************************************************
+
+Host: pop-os
+
+Timers On : Wed Jul 30 18:19:50 2025
+Timers Off: Wed Jul 30 18:40:04 2025
+
+Wall Time:     1214.63 seconds
+
+                                                       Time (seconds)
+Module                                       User      System        Wall        Calls
+
+--------------------------------------------------------------------------------------
+
+**************************************************************************************
+
+Host: pop-os
+
+Timers On : Wed Jul 30 22:21:47 2025
+Timers Off: Wed Jul 30 22:22:18 2025
+
+Wall Time:       30.44 seconds
+
+                                                       Time (seconds)
+Module                                       User      System        Wall        Calls
+
+--------------------------------------------------------------------------------------
+
+**************************************************************************************
+
+Host: pop-os
+
+Timers On : Wed Jul 30 22:22:24 2025
+Timers Off: Wed Jul 30 22:23:07 2025
+
+Wall Time:       43.02 seconds
+
+                                                       Time (seconds)
+Module                                       User      System        Wall        Calls
+
+--------------------------------------------------------------------------------------
+
+**************************************************************************************
+
+Host: pop-os
+
+Timers On : Wed Jul 30 22:41:58 2025
+Timers Off: Wed Jul 30 22:42:32 2025
+
+Wall Time:       33.62 seconds
+
+                                                       Time (seconds)
+Module                                       User      System        Wall        Calls
+Total PK formation time             :      0.200u      0.017s      0.124w      2 calls
+Libint2ERI::Libint2ERI              :      0.083u      0.017s      0.040w      6 calls
+HF: Form core H                     :      0.000u      0.000s      0.009w      2 calls
+HF: Form S/X                        :      0.000u      0.000s      0.000w      2 calls
+HF: Guess                           :      0.100u      0.000s      0.056w      2 calls
+SAD Guess                           :      0.100u      0.000s      0.053w      2 calls
+HF: Form G                          :      0.000u      0.000s      0.001w     16 calls
+JK: D                               :      0.000u      0.000s      0.000w     16 calls
+JK: USO2AO                          :      0.000u      0.000s      0.000w     16 calls
+JK: JK                              :      0.000u      0.000s      0.000w     16 calls
+PK computes JK                      :      0.000u      0.000s      0.000w     16 calls
+JK: AO2USO                          :      0.000u      0.000s      0.000w     16 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     16 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     16 calls
+HF: DIIS                            :      0.050u      0.000s      0.029w     14 calls
+HF: Form C                          :      0.017u      0.000s      0.003w     14 calls
+CIWave: CIvect write                :      0.033u      0.017s      0.014w    158 calls
+CIWave: CIvect read                 :      0.050u      0.167s      0.149w   1686 calls
+CIWave: s2                          :      0.033u      0.033s      0.068w    160 calls
+CIWave: s3                          :      0.517u      0.000s      0.284w   1280 calls
+
+--------------------------------------------------------------------------------------
+Total PK formation time             :      0.200u      0.017s      0.124w      2 calls
+| Libint2ERI::Libint2ERI            :      0.050u      0.017s      0.026w      4 calls
+HF: Form core H                     :      0.000u      0.000s      0.009w      2 calls
+HF: Form S/X                        :      0.000u      0.000s      0.000w      2 calls
+HF: Guess                           :      0.100u      0.000s      0.056w      2 calls
+| SAD Guess                         :      0.100u      0.000s      0.053w      2 calls
+HF: Form G                          :      0.000u      0.000s      0.001w     16 calls
+| JK: D                             :      0.000u      0.000s      0.000w     16 calls
+| JK: USO2AO                        :      0.000u      0.000s      0.000w     16 calls
+| JK: JK                            :      0.000u      0.000s      0.000w     16 calls
+| | PK computes JK                  :      0.000u      0.000s      0.000w     16 calls
+| JK: AO2USO                        :      0.000u      0.000s      0.000w     16 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     16 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     16 calls
+HF: DIIS                            :      0.050u      0.000s      0.029w     14 calls
+HF: Form C                          :      0.017u      0.000s      0.003w     14 calls
+Libint2ERI::Libint2ERI              :      0.033u      0.000s      0.014w      2 calls
+CIWave: CIvect write                :      0.033u      0.017s      0.014w    158 calls
+CIWave: CIvect read                 :      0.050u      0.167s      0.149w   1686 calls
+CIWave: s2                          :      0.033u      0.033s      0.068w    160 calls
+CIWave: s3                          :      0.517u      0.000s      0.284w   1280 calls
+
+**************************************************************************************
+
+Host: pop-os
+
+Timers On : Wed Jul 30 22:43:09 2025
+Timers Off: Wed Jul 30 22:43:10 2025
+
+Wall Time:        0.79 seconds
+
+                                                       Time (seconds)
+Module                                       User      System        Wall        Calls
+
+--------------------------------------------------------------------------------------
+
+**************************************************************************************
+
+Host: pop-os
+
+Timers On : Wed Jul 30 22:43:55 2025
+Timers Off: Wed Jul 30 22:55:55 2025
+
+Wall Time:      720.86 seconds
+
+                                                       Time (seconds)
+Module                                       User      System        Wall        Calls
+Total PK formation time             :      0.317u      0.033s      0.210w      8 calls
+Libint2ERI::Libint2ERI              :      0.183u      0.033s      0.091w     24 calls
+HF: Form core H                     :      0.017u      0.000s      0.032w      8 calls
+HF: Form S/X                        :      0.000u      0.000s      0.001w      8 calls
+HF: Guess                           :      0.283u      0.017s      0.180w      8 calls
+SAD Guess                           :      0.267u      0.017s      0.168w      8 calls
+HF: Form G                          :      0.000u      0.000s      0.003w     60 calls
+JK: D                               :      0.000u      0.000s      0.000w     60 calls
+JK: USO2AO                          :      0.000u      0.000s      0.001w     60 calls
+JK: JK                              :      0.000u      0.000s      0.001w     60 calls
+PK computes JK                      :      0.000u      0.000s      0.001w     60 calls
+JK: AO2USO                          :      0.000u      0.000s      0.000w     60 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     60 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     60 calls
+HF: DIIS                            :      0.217u      0.000s      0.113w     52 calls
+HF: Form C                          :      0.017u      0.000s      0.011w     52 calls
+CIWave: CIvect write                :      0.000u      0.000s      0.001w    120 calls
+CIWave: CIvect read                 :      0.000u      0.000s      0.002w    559 calls
+CIWave: s2                          :      0.000u      0.000s      0.002w     60 calls
+CIWave: s3                          :      0.017u      0.000s      0.006w    334 calls
+
+--------------------------------------------------------------------------------------
+Total PK formation time             :      0.317u      0.033s      0.210w      8 calls
+| Libint2ERI::Libint2ERI            :      0.083u      0.033s      0.062w     16 calls
+HF: Form core H                     :      0.017u      0.000s      0.032w      8 calls
+HF: Form S/X                        :      0.000u      0.000s      0.001w      8 calls
+HF: Guess                           :      0.283u      0.017s      0.180w      8 calls
+| SAD Guess                         :      0.267u      0.017s      0.168w      8 calls
+HF: Form G                          :      0.000u      0.000s      0.003w     60 calls
+| JK: D                             :      0.000u      0.000s      0.000w     60 calls
+| JK: USO2AO                        :      0.000u      0.000s      0.001w     60 calls
+| JK: JK                            :      0.000u      0.000s      0.001w     60 calls
+| | PK computes JK                  :      0.000u      0.000s      0.001w     60 calls
+| JK: AO2USO                        :      0.000u      0.000s      0.000w     60 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     60 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     60 calls
+HF: DIIS                            :      0.217u      0.000s      0.113w     52 calls
+HF: Form C                          :      0.017u      0.000s      0.011w     52 calls
+Libint2ERI::Libint2ERI              :      0.100u      0.000s      0.029w      8 calls
+CIWave: CIvect write                :      0.000u      0.000s      0.001w    120 calls
+CIWave: CIvect read                 :      0.000u      0.000s      0.002w    559 calls
+CIWave: s2                          :      0.000u      0.000s      0.002w     60 calls
+CIWave: s3                          :      0.017u      0.000s      0.006w    334 calls
+
+**************************************************************************************
+
+Host: pop-os
+
+Timers On : Wed Jul 30 23:01:20 2025
+Timers Off: Wed Jul 30 23:01:21 2025
+
+Wall Time:        0.75 seconds
+
+                                                       Time (seconds)
+Module                                       User      System        Wall        Calls
+
+--------------------------------------------------------------------------------------
+
+**************************************************************************************
+
+Host: pop-os
+
+Timers On : Wed Jul 30 23:05:17 2025
+Timers Off: Wed Jul 30 23:13:04 2025
+
+Wall Time:      467.39 seconds
+
+                                                       Time (seconds)
+Module                                       User      System        Wall        Calls
+Total PK formation time             :      0.100u      0.017s      0.069w      2 calls
+Libint2ERI::Libint2ERI              :      0.067u      0.017s      0.035w      6 calls
+HF: Form core H                     :      0.000u      0.017s      0.008w      2 calls
+HF: Form S/X                        :      0.000u      0.000s      0.000w      2 calls
+HF: Guess                           :      0.050u      0.000s      0.034w      2 calls
+SAD Guess                           :      0.050u      0.000s      0.031w      2 calls
+HF: Form G                          :      0.000u      0.000s      0.000w     12 calls
+JK: D                               :      0.000u      0.000s      0.000w     12 calls
+JK: USO2AO                          :      0.000u      0.000s      0.000w     12 calls
+JK: JK                              :      0.000u      0.000s      0.000w     12 calls
+PK computes JK                      :      0.000u      0.000s      0.000w     12 calls
+JK: AO2USO                          :      0.000u      0.000s      0.000w     12 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     12 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     12 calls
+HF: DIIS                            :      0.033u      0.000s      0.020w     10 calls
+HF: Form C                          :      0.000u      0.000s      0.002w     10 calls
+CIWave: CIvect write                :      0.000u      0.000s      0.000w     22 calls
+CIWave: CIvect read                 :      0.000u      0.000s      0.000w     71 calls
+CIWave: s2                          :      0.000u      0.000s      0.000w     24 calls
+CIWave: s3                          :      0.000u      0.000s      0.001w    192 calls
+
+--------------------------------------------------------------------------------------
+Total PK formation time             :      0.100u      0.017s      0.069w      2 calls
+| Libint2ERI::Libint2ERI            :      0.033u      0.017s      0.026w      4 calls
+HF: Form core H                     :      0.000u      0.017s      0.008w      2 calls
+HF: Form S/X                        :      0.000u      0.000s      0.000w      2 calls
+HF: Guess                           :      0.050u      0.000s      0.034w      2 calls
+| SAD Guess                         :      0.050u      0.000s      0.031w      2 calls
+HF: Form G                          :      0.000u      0.000s      0.000w     12 calls
+| JK: D                             :      0.000u      0.000s      0.000w     12 calls
+| JK: USO2AO                        :      0.000u      0.000s      0.000w     12 calls
+| JK: JK                            :      0.000u      0.000s      0.000w     12 calls
+| | PK computes JK                  :      0.000u      0.000s      0.000w     12 calls
+| JK: AO2USO                        :      0.000u      0.000s      0.000w     12 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     12 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     12 calls
+HF: DIIS                            :      0.033u      0.000s      0.020w     10 calls
+HF: Form C                          :      0.000u      0.000s      0.002w     10 calls
+Libint2ERI::Libint2ERI              :      0.033u      0.000s      0.009w      2 calls
+CIWave: CIvect write                :      0.000u      0.000s      0.000w     22 calls
+CIWave: CIvect read                 :      0.000u      0.000s      0.000w     71 calls
+CIWave: s2                          :      0.000u      0.000s      0.000w     24 calls
+CIWave: s3                          :      0.000u      0.000s      0.001w    192 calls
+
+**************************************************************************************
+
+Host: pop-os
+
+Timers On : Wed Jul 30 23:14:34 2025
+Timers Off: Wed Jul 30 23:19:42 2025
+
+Wall Time:      308.90 seconds
+
+                                                       Time (seconds)
+Module                                       User      System        Wall        Calls
+Total PK formation time             :      0.100u      0.017s      0.061w      2 calls
+Libint2ERI::Libint2ERI              :      0.050u      0.017s      0.029w      6 calls
+HF: Form core H                     :      0.000u      0.000s      0.008w      2 calls
+HF: Form S/X                        :      0.000u      0.000s      0.000w      2 calls
+HF: Guess                           :      0.050u      0.000s      0.033w      2 calls
+SAD Guess                           :      0.050u      0.000s      0.030w      2 calls
+HF: Form G                          :      0.017u      0.000s      0.000w     12 calls
+JK: D                               :      0.017u      0.000s      0.000w     12 calls
+JK: USO2AO                          :      0.000u      0.000s      0.000w     12 calls
+JK: JK                              :      0.000u      0.000s      0.000w     12 calls
+PK computes JK                      :      0.000u      0.000s      0.000w     12 calls
+JK: AO2USO                          :      0.000u      0.000s      0.000w     12 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     12 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     12 calls
+HF: DIIS                            :      0.017u      0.000s      0.019w     10 calls
+HF: Form C                          :      0.017u      0.000s      0.002w     10 calls
+CIWave: CIvect write                :      0.000u      0.000s      0.000w     22 calls
+CIWave: CIvect read                 :      0.000u      0.000s      0.000w     71 calls
+CIWave: s2                          :      0.000u      0.000s      0.001w     24 calls
+CIWave: s3                          :      0.000u      0.000s      0.002w    192 calls
+
+--------------------------------------------------------------------------------------
+Total PK formation time             :      0.100u      0.017s      0.061w      2 calls
+| Libint2ERI::Libint2ERI            :      0.033u      0.017s      0.019w      4 calls
+HF: Form core H                     :      0.000u      0.000s      0.008w      2 calls
+HF: Form S/X                        :      0.000u      0.000s      0.000w      2 calls
+HF: Guess                           :      0.050u      0.000s      0.033w      2 calls
+| SAD Guess                         :      0.050u      0.000s      0.030w      2 calls
+HF: Form G                          :      0.017u      0.000s      0.000w     12 calls
+| JK: D                             :      0.017u      0.000s      0.000w     12 calls
+| JK: USO2AO                        :      0.000u      0.000s      0.000w     12 calls
+| JK: JK                            :      0.000u      0.000s      0.000w     12 calls
+| | PK computes JK                  :      0.000u      0.000s      0.000w     12 calls
+| JK: AO2USO                        :      0.000u      0.000s      0.000w     12 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     12 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     12 calls
+HF: DIIS                            :      0.017u      0.000s      0.019w     10 calls
+HF: Form C                          :      0.017u      0.000s      0.002w     10 calls
+Libint2ERI::Libint2ERI              :      0.017u      0.000s      0.010w      2 calls
+CIWave: CIvect write                :      0.000u      0.000s      0.000w     22 calls
+CIWave: CIvect read                 :      0.000u      0.000s      0.000w     71 calls
+CIWave: s2                          :      0.000u      0.000s      0.001w     24 calls
+CIWave: s3                          :      0.000u      0.000s      0.002w    192 calls
+
+**************************************************************************************
+
+Host: pop-os
+
+Timers On : Wed Jul 30 23:31:51 2025
+Timers Off: Thu Jul 31 10:08:36 2025
+
+Wall Time:    38204.96 seconds
+
+                                                       Time (seconds)
+Module                                       User      System        Wall        Calls
+Total PK formation time             :      0.167u      0.000s      0.103w      4 calls
+Libint2ERI::Libint2ERI              :      0.067u      0.017s      0.042w     12 calls
+HF: Form core H                     :      0.000u      0.000s      0.016w      4 calls
+HF: Form S/X                        :      0.000u      0.000s      0.000w      4 calls
+HF: Guess                           :      0.133u      0.017s      0.082w      4 calls
+SAD Guess                           :      0.133u      0.017s      0.077w      4 calls
+HF: Form G                          :      0.000u      0.000s      0.001w     34 calls
+JK: D                               :      0.000u      0.000s      0.000w     34 calls
+JK: USO2AO                          :      0.000u      0.000s      0.000w     34 calls
+JK: JK                              :      0.000u      0.000s      0.000w     34 calls
+PK computes JK                      :      0.000u      0.000s      0.000w     34 calls
+JK: AO2USO                          :      0.000u      0.000s      0.000w     34 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     34 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     34 calls
+HF: DIIS                            :      0.083u      0.000s      0.059w     30 calls
+HF: Form C                          :      0.017u      0.000s      0.006w     30 calls
+CIWave: CIvect write                :      0.000u      0.000s      0.001w     84 calls
+CIWave: CIvect read                 :      0.000u      0.000s      0.002w    449 calls
+CIWave: s2                          :      0.000u      0.000s      0.001w     20 calls
+CIWave: s3                          :      0.017u      0.000s      0.004w     38 calls
+
+--------------------------------------------------------------------------------------
+Total PK formation time             :      0.167u      0.000s      0.103w      4 calls
+| Libint2ERI::Libint2ERI            :      0.033u      0.000s      0.028w      8 calls
+HF: Form core H                     :      0.000u      0.000s      0.016w      4 calls
+HF: Form S/X                        :      0.000u      0.000s      0.000w      4 calls
+HF: Guess                           :      0.133u      0.017s      0.082w      4 calls
+| SAD Guess                         :      0.133u      0.017s      0.077w      4 calls
+HF: Form G                          :      0.000u      0.000s      0.001w     34 calls
+| JK: D                             :      0.000u      0.000s      0.000w     34 calls
+| JK: USO2AO                        :      0.000u      0.000s      0.000w     34 calls
+| JK: JK                            :      0.000u      0.000s      0.000w     34 calls
+| | PK computes JK                  :      0.000u      0.000s      0.000w     34 calls
+| JK: AO2USO                        :      0.000u      0.000s      0.000w     34 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     34 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     34 calls
+HF: DIIS                            :      0.083u      0.000s      0.059w     30 calls
+HF: Form C                          :      0.017u      0.000s      0.006w     30 calls
+Libint2ERI::Libint2ERI              :      0.033u      0.017s      0.014w      4 calls
+CIWave: CIvect write                :      0.000u      0.000s      0.001w     84 calls
+CIWave: CIvect read                 :      0.000u      0.000s      0.002w    449 calls
+CIWave: s2                          :      0.000u      0.000s      0.001w     20 calls
+CIWave: s3                          :      0.017u      0.000s      0.004w     38 calls
+
+**************************************************************************************
+
+Host: pop-os
+
+Timers On : Thu Jul 31 10:08:37 2025
+Timers Off: Thu Jul 31 10:08:42 2025
+
+Wall Time:        4.97 seconds
+
+                                                       Time (seconds)
+Module                                       User      System        Wall        Calls
+
+--------------------------------------------------------------------------------------
+
+**************************************************************************************
+
+Host: pop-os
+
+Timers On : Thu Jul 31 10:42:19 2025
+Timers Off: Thu Jul 31 10:42:23 2025
+
+Wall Time:        3.52 seconds
+
+                                                       Time (seconds)
+Module                                       User      System        Wall        Calls
+
+--------------------------------------------------------------------------------------
+
+**************************************************************************************
+
+Host: pop-os
+
+Timers On : Thu Jul 31 20:52:04 2025
+Timers Off: Thu Jul 31 20:52:22 2025
+
+Wall Time:       18.30 seconds
+
+                                                       Time (seconds)
+Module                                       User      System        Wall        Calls
+
+--------------------------------------------------------------------------------------
+
+**************************************************************************************
+
+Host: pop-os
+
+Timers On : Thu Jul 31 20:52:48 2025
+Timers Off: Thu Jul 31 20:53:06 2025
+
+Wall Time:       17.86 seconds
+
+                                                       Time (seconds)
+Module                                       User      System        Wall        Calls
+
+--------------------------------------------------------------------------------------
+
+**************************************************************************************
+
+Host: pop-os
+
+Timers On : Thu Jul 31 21:28:08 2025
+Timers Off: Thu Jul 31 21:28:11 2025
+
+Wall Time:        2.92 seconds
+
+                                                       Time (seconds)
+Module                                       User      System        Wall        Calls
+
+--------------------------------------------------------------------------------------
+
+**************************************************************************************
+
+Host: pop-os
+
+Timers On : Thu Jul 31 21:28:33 2025
+Timers Off: Thu Jul 31 21:28:37 2025
+
+Wall Time:        3.41 seconds
+
+                                                       Time (seconds)
+Module                                       User      System        Wall        Calls
+
+--------------------------------------------------------------------------------------
+
+**************************************************************************************
+
+Host: pop-os
+
+Timers On : Thu Jul 31 22:21:52 2025
+Timers Off: Fri Aug  1 12:01:39 2025
+
+Wall Time:    49186.73 seconds
+
+                                                       Time (seconds)
+Module                                       User      System        Wall        Calls
+Total PK formation time             :      0.133u      0.000s      0.084w      2 calls
+Libint2ERI::Libint2ERI              :      0.033u      0.000s      0.028w      6 calls
+HF: Form core H                     :      0.000u      0.000s      0.009w      2 calls
+HF: Form S/X                        :      0.000u      0.000s      0.000w      2 calls
+HF: Guess                           :      0.033u      0.017s      0.035w      2 calls
+SAD Guess                           :      0.033u      0.017s      0.031w      2 calls
+HF: Form G                          :      0.000u      0.000s      0.001w     18 calls
+JK: D                               :      0.000u      0.000s      0.000w     18 calls
+JK: USO2AO                          :      0.000u      0.000s      0.000w     18 calls
+JK: JK                              :      0.000u      0.000s      0.000w     18 calls
+PK computes JK                      :      0.000u      0.000s      0.000w     18 calls
+JK: AO2USO                          :      0.000u      0.000s      0.000w     18 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     18 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     18 calls
+HF: DIIS                            :      0.117u      0.017s      0.047w     16 calls
+HF: Form C                          :      0.000u      0.000s      0.004w     16 calls
+CIWave: CIvect write                :      0.000u      0.000s      0.000w     70 calls
+CIWave: CIvect read                 :      0.000u      0.000s      0.001w    410 calls
+CIWave: s2                          :      0.000u      0.000s      0.001w     18 calls
+CIWave: s3                          :      0.000u      0.000s      0.003w     36 calls
+
+--------------------------------------------------------------------------------------
+Total PK formation time             :      0.133u      0.000s      0.084w      2 calls
+| Libint2ERI::Libint2ERI            :      0.033u      0.000s      0.019w      4 calls
+HF: Form core H                     :      0.000u      0.000s      0.009w      2 calls
+HF: Form S/X                        :      0.000u      0.000s      0.000w      2 calls
+HF: Guess                           :      0.033u      0.017s      0.035w      2 calls
+| SAD Guess                         :      0.033u      0.017s      0.031w      2 calls
+HF: Form G                          :      0.000u      0.000s      0.001w     18 calls
+| JK: D                             :      0.000u      0.000s      0.000w     18 calls
+| JK: USO2AO                        :      0.000u      0.000s      0.000w     18 calls
+| JK: JK                            :      0.000u      0.000s      0.000w     18 calls
+| | PK computes JK                  :      0.000u      0.000s      0.000w     18 calls
+| JK: AO2USO                        :      0.000u      0.000s      0.000w     18 calls
+HF: Form F                          :      0.000u      0.000s      0.000w     18 calls
+HF: Form D                          :      0.000u      0.000s      0.000w     18 calls
+HF: DIIS                            :      0.117u      0.017s      0.047w     16 calls
+HF: Form C                          :      0.000u      0.000s      0.004w     16 calls
+Libint2ERI::Libint2ERI              :      0.000u      0.000s      0.009w      2 calls
+CIWave: CIvect write                :      0.000u      0.000s      0.000w     70 calls
+CIWave: CIvect read                 :      0.000u      0.000s      0.001w    410 calls
+CIWave: s2                          :      0.000u      0.000s      0.001w     18 calls
+CIWave: s3                          :      0.000u      0.000s      0.003w     36 calls
+
+**************************************************************************************
